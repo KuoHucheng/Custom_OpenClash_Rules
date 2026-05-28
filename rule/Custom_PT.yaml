@@ -1,12 +1,11 @@
 payload:
-  - '+.fc2ppvdb.com'
-  - '+.keepfrds.com'
-  - '+.springsunday.net'
-  - '+.hdfans.org'
-  - '+.nicept.net'
-  - '+.pterclub.com'
-  - '+.pterclub.net'
-  - '+.pttime.org'
-  - '+.rousi.pro'
-  - '+.totheglory.im'
-  - '+.nicept.net'
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,nicept.net
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,pterclub.net
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,rousi.pro
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,nicept.net
